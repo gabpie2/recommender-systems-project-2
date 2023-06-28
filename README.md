@@ -49,20 +49,19 @@ Tuning was not executed since recommender was not working.
 
 - install all used python libraries: 
 
-        - numpy, 
+	- numpy, 
 
-        - pandas,
+	- pandas, 
 
-  	- livelossplot,
- 
-  	- torch,
- 
-  	- scikit learn 
+	- hyperopt, 
 
-        - hyperopt, 
+	- matplotlib, 
 
-        - matplotlib, 
+	- seaborn,
 
-        - seaborn
-  
+	- livelossplot,
+
+	- torch,
+
+	- scikit-learn
 
