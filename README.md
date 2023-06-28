@@ -59,8 +59,8 @@ Tuning was not executed since recommender was not working.
 
         - seaborn,
   
-	      - livelossplot,
+	- livelossplot,
   
-	      - torch,
+	- torch,
 
         -scikit learn
