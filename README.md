@@ -51,16 +51,18 @@ Tuning was not executed since recommender was not working.
 
         - numpy, 
 
-        - pandas, 
+        - pandas,
+
+  	- livelossplot,
+ 
+  	- torch,
+ 
+  	- scikit learn 
 
         - hyperopt, 
 
         - matplotlib, 
 
-        - seaborn,
+        - seaborn
   
-	- livelossplot,
-  
-	- torch,
 
-        -scikit learn
